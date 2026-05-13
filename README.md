@@ -60,4 +60,5 @@ chmod +x gui_tools_automation.sh
 - If an incorrect file is selected, the script will show an error and exit.
 ## Demo Video
 A walkthrough of the Chimera Detection Pipeline GUI and workflow is available here:  
-[Watch the Demo Video](https://nileuniversity-my.sharepoint.com/:v:/r/personal/e_elhawary_nu_edu_eg/Documents/Chimera_demo.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mdAt62)
+[Watch the Demo Video](https://nileuniversity-my.sharepoint.com/:v:/g/personal/e_elhawary_nu_edu_eg/IQDmvjtfyVVySZjDsIaReES1AfpTt4tTCwrYF9gJCQ39o-Q?e=QcuhMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
