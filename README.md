@@ -144,4 +144,4 @@ The script runs with `set -euo pipefail`. Any unhandled error — including a fa
 ## Demo
 
 A full walkthrough of the GUI and workflow is available here:  
-[Watch the Demo Video](https://nileuniversity-my.sharepoint.com/:v:/g/personal/e_elhawary_nu_edu_eg/IQDmvjtfyVVySZjDsIaReES1AfpTt4tTCwrYF9gJCQ39o-Q?e=QcuhMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Watch the Demo Video](https://nileuniversity-my.sharepoint.com/:v:/g/personal/e_elhawary_nu_edu_eg/IQBG3wm6DqzUQZ_6nX4wtI2NAcRZlI4sgwNVM4OvMylYk8Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hrpuQ3)
